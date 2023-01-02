@@ -1,0 +1,9 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+internal_include_do_not_delete.gypi filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+piex.gyp filter=lfs diff=lfs merge=lfs -text
+README filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
